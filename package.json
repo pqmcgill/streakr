@@ -1,0 +1,11 @@
+{
+  "name": "streakr",
+  "version": "1.0.0",
+  "description": "An app for assisting in habit building",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Patrick McGill",
+  "license": "MIT"
+}
